@@ -22,7 +22,6 @@ html{
 .header{
   grid-area: header;
   background-color: aqua;
-  color: black;
 }
 
 .menu{
